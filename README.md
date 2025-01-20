@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+This project's main functionality is convert the images of (jpeg,png,Svg,etc) into WebP.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
